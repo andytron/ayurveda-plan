@@ -1,0 +1,31 @@
+{
+  "name": "ayurveda-plan",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Andrew Huang <andytron@icloud.com>",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.0",
+    "vue": "^3.2.25"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
+    "axios": "^0.26.1",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^8.5.0",
+    "prettier": "^2.6.0",
+    "vue-router": "^4.0.13"
+  }
+}

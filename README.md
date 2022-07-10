@@ -1,0 +1,3 @@
+# Ayurveda Plan
+
+Vite + TailwindCSS
